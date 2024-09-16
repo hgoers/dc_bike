@@ -1,9 +1,10 @@
 project:
   type: website
   output-dir: docs
+#  google-analytics: "G-Z7V71T5GHX"
 
 website:
-  title: "DC Food and Drink by Bike"
+  title: "DC Bike & Brew"
   navbar:
     right:
       - about.qmd
