@@ -12,6 +12,14 @@ website:
       - icon: map
         href: https://ridewithgps.com/collections/2960401
   
+  page-footer:
+    left: |
+      Content {{< fa brands creative-commons >}} 2024 by Harriet Goers <br>
+      All content licensed under a {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}} [Creative Commons Attribution-Non Commercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+
+  
 format:
   html:
     theme: cosmo
