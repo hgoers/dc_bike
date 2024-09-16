@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "DC Food and Drink by Bike"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: map
+        href: https://ridewithgps.com/collections/2960401
+  
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+

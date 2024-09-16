@@ -1,0 +1,43 @@
+---
+title: "About"
+image: profile.jpeg
+about:
+  template: jolla
+  links:
+    - icon: map
+      text: Ride with GPS
+      href: https://ridewithgps.com/collections/2960401?privacy_code=C7bXnhLUwHeAGLnyaXoTXYhrnk055lBa
+    - icon: github
+      text: Github
+      href: https://github.com/hgoers/dc_bike
+---
+
+## The routes
+
+This website includes routes that combine three great loves of mine: good trails, food, and bevvies. Each route includes at least one stop for an amazing feed and a cheeky drink. On your way to these stops, you will travel some of the most interesting and scenic parts of DC and its surrounds.
+
+You do not need to be an advanced cyclist with the latest gear to enjoy these rides. Some are long (but very manageable, I promise!). All are designed to be fun. On that: I loath riding on roads, particularly in the Wild West of DC, Virginia, and (*shudders)* Maryland. I avoid them as best I can. None of these routes will spit you out onto a busy road. Largely, they take advantage of DC's wonderful cycle ways.
+
+## The bike
+
+Almost any bike will carry you happily and safely through these routes. I will note in the route descriptions when I think you need specific gear, including wide tires.
+
+My bike is wonderful, but nothing fancy. I bought it second-hand for \$300 (an astonishing amount of money for a student, but pennies compared to what you can spend on a bike). Here are some relevant specs:
+
+**Brand and model:** Specialized 2019 Women's Sirrus
+
+**Frame:** Aluminum with a fitness geometry (read: comfortable, but you can tuck into a speedier position when needed)
+
+**Wheels:** 700x32mm sport
+
+**Gearing:** 3x8 (48/38/28T at the front and 11-32t at the back)
+
+You can safely assume that you are able, at a minimum, to comfortably ride these routes on a similar bike (yes, even the C&O Canal Towpath).
+
+![](bike.jpeg){fig-align="center"}
+
+## Me
+
+I am an Australian PhD student who has lived in DC since 2021. I am relatively new to cycling. In April 2024, I tore my ACL. Cycling was, for the first five months, the only sport I could do outside. I recommend biking to anyone with similar injuries: it is a relatively low-impact sport that allows you to see more sights than the bottom of your local swimming pool.
+
+These routes are, therefore, accessible to those who are new to the sport or who do not consider themselves to be very fit. I recommend starting with some of the shorter routes and working your way up to the centuries. For months, the full extent of my cycling involved commuting to work on a Capital BikeShare bike. Only recently did the allure of Rock Creek Park prompt me to get my own bike. I signed up for WABA's 50 States Ride (perhaps under the influence of one of those cheeky bevvies) and found a good-looking, second–hand bike. I well and truly caught the bug, so this collection of routes also includes plenty for those whose bike features concerning regularly in their dreams.

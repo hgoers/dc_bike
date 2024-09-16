@@ -1,0 +1,14 @@
+{
+  "hash": "c1b51d8a004995f2f3a5c36b0e16d59b",
+  "result": {
+    "markdown": "---\ntitle: \"C&O Canal Towpath to Whites Ferry\"\nauthor: \"Harriet Goers\"\ndate: \"2024-09-08\"\ncategories: [all day, gravel, burger]\ntoc: true\nimage: \"thumbnail.jpeg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
